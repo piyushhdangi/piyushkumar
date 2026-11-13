@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Lost & Found System",
+  "description": "A centralized university platform for students, staff, and administrators to report lost belongings, log found items, verify ownership claims, and manage campus item recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
